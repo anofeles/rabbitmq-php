@@ -1,0 +1,5 @@
+https://www.google.ru/search?lr=lang_ru&newwindow=1&biw=1920&bih=966&tbs=lr%3Alang_1ru&ei=akXNXdm1JIeckgW0q7KQDQ&q=RabbitMQ+tutorial+%3Ahabr.com+&oq=RabbitMQ+tutorial+%3Ahabr.com+&gs_l=psy-ab.3...672947.692512..707904...1.4..0.147.728.0j6......0....2j1..gws-wiz.......0i71j0j0i22i30.lmAGVnAvH2E&ved=0ahUKEwjZkteD1-nlAhUHjqQKHbSVDNIQ4dUDCAo&uact=5
+
+https://api.cloudamqp.com/console/1c82a5a6-c8ff-40eb-ab63-329d6e89b336/details
+https://www.rabbitmq.com/tutorials/tutorial-three-php.html
+https://dotsandbrackets.com/quick-intro-to-rabbitmq-ru/
